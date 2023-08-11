@@ -13,6 +13,9 @@ jupyter = "^1.0.0"
 yfinance = "^0.2.27"
 requests = "^2.31.0"
 beautifulsoup4 = "^4.12.2"
+tushare = "^1.2.89"
+matplotlib = "^3.7.2"
+pandas-datareader = "^0.10.0"
 
 [build-system]
 requires = ["poetry-core"]
